@@ -99,8 +99,8 @@ header {
 	float: left;
 	}
 .summary p {
-	font: italic 1.1em/2.2 georgia; 
-	text-align: center;
+	font: 1.1em/2.2 georgia; 
+	text-align: left;
 	}
 
 .preamble {
@@ -187,7 +187,7 @@ footer a:link, footer a:visited {
 .extra1 {
 	background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat; 
 	position: absolute; 
-	top: 40px; 
+	top: 0px; 
 	right: 0; 
 	width: 148px; 
 	height: 110px;
